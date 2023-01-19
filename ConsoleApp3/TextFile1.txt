@@ -1,0 +1,2 @@
+﻿notes
+These are notes for the program
